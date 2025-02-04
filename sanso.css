@@ -1,0 +1,1793 @@
+.menu {
+    background:  #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1517x;
+    box-sizing: border-box;
+  }
+   .hero {
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 133px;
+    width: 1517px;
+    box-sizing: border-box;
+  }
+  .menu .header {
+    margin-bottom: 85px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1517px;
+    box-sizing: border-box;
+  }
+  .menu .top-bar {
+    background: #474747;
+    margin-bottom: 29px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 154.3px 8.8px 152.3px;
+    width: 1517px;
+    box-sizing: border-box;
+  }
+  .menu .info {
+    margin: 2px 0 1.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 344px;
+    height: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .call {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .menu .icon-outlinephone {
+    margin: 5.3px 10.3px 5.3px 0;
+    display: flex;
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+  .menu .container-16 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+  .menu .mail {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .menu .icon-outlinemail {
+    margin: 6.8px 10.3px 6.8px 0;
+    display: flex;
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+  .menu .yummybistrobliss {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-02, #F9F9F7);
+  }
+  .menu .social {
+    display: flex;
+    flex-direction: row;
+    width: 120.7px;
+    height: 'fit-content';
+    box-sizing: border-box;
+  }
+
+  .menu .container-12 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 9.6px 7.6px 8.8px 8.8px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+  .menu .logo-twitter-2 {
+    display: flex;
+    width: 10.8px;
+    height: 8.8px;
+    box-sizing: border-box;
+  }
+  .menu .container-13 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 7.9px 10.5px 7.5px 10.5px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+  .menu .logo-fb-simple-2 {
+    display: flex;
+    width: 6.1px;
+    height: 11.8px;
+    box-sizing: border-box;
+  }
+  .menu .container-14 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 7px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+  .menu .container-15 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    display: flex;
+    padding: 7px 6.7px 7.9px 7.9px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+  .menu .logo-instagram-1 {
+    display: flex;
+    width: 13.1px;
+    height: 13.1px;
+    box-sizing: border-box;
+  }
+  .menu .container-15 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    display: flex;
+    padding: 7px 6.7px 7.9px 7.9px;
+    width: 27.2px;
+    height: 27.2px;
+    box-sizing: border-box;
+  }
+  .menu .logo-github-1 {
+    display: flex;
+    width: 12.6px;
+    height: 12.3px;
+    box-sizing: border-box;
+  }
+  .header-1 {
+    margin: 0 155.5px 0 151.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1293px;
+}
+.logo-1 {
+  position: relative;
+  display: flex;
+  padding: 12px 0 14px 0;
+  width: 278.3px;
+}
+.uf {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 150px;
+  height: 45px;
+}
+.k {
+  position: relative;
+  display: flex;
+}
+.menu-2 {
+  border-radius: 34px;
+  margin: 11.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 416.6px;
+  height: 'fit-content';
+  box-sizing: border-box;
+}
+.menu-3 {
+  margin-right: 24px;
+  display: flex;
+}
+.menu-4 {
+  border-radius: 34px;
+  margin: 4px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.about-2 {
+  overflow-wrap: break-word;
+  height: 40px;
+  width: 80px;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  background: #DBDFD0;
+  border-radius: 20px;
+  color: #2C2F24;
+  box-sizing: border-box;
+}
+.menu-5 {
+  border-radius: 34px;
+  margin: 4px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-6 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2C2F24;
+}
+.menu-7 {
+  border-radius: 34px;
+  margin: 4px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.pages-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2C2F24;
+}
+.menu-8 {
+  border-radius: 34px;
+  margin: 4px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.contact-1 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2C2F24;
+}
+.button-4 {
+  border-radius: 118px;
+  margin: 3.5px 0;
+  display: flex;
+  width: 147px;
+  height: 'fit-content';
+  box-sizing: border-box;
+}
+.button-5 {
+  border-radius: 118px;
+  border: 1.5px solid #2C2F24;
+  width: 147px;
+  height: 'fit-content';
+  box-sizing: border-box;
+  text-align: center;
+  padding-top: 10px;
+}
+.get-started-now-4 {
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #182226;
+}
+
+  .menu .japanese-food {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 56px;
+    height: 55px;
+  }
+  .menu .original-logo {
+    position: relative;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .menu .cuisine-1 {
+    overflow-wrap: break-word;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 42.7px;
+    letter-spacing: -0.4px;
+    line-height: 0.687;
+    color: #474747;
+  }
+  .menu .menu-1 {
+    border-radius: 34px;
+    margin: 11.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 433px;
+    height: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .menu-2 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .menu .home {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .container-2 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .menu .menu-3 {
+    border-radius: 34px;
+    margin: 4px 24.5px 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .menu .about {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .menu-4 {
+    border-radius: 34px;
+    background: #DBDFD0;
+    margin-right: 24px;
+    display: flex;
+    padding: 4px 17.3px 4px 16px;
+    box-sizing: border-box;
+  }
+  .menu .menu-5 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .menu-6 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .menu .pages {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .menu-7 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .menu .contact {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-medium-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-medium-font-weight, 500);
+    font-size: var(--body-16-px-medium-font-size, 16px);
+    line-height: var(--body-16-px-medium-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .button {
+    border-radius: 118px;
+    margin: 3.5px 0;
+    display: flex;
+    width: 147px;
+    height: 'fit-content';
+    box-sizing: border-box;
+  }
+
+  .menu .button-1 {
+    border-radius: 118px;
+    border: 1.5px solid var(--neutral-07, #2C2F24);
+    display: flex;
+    padding: 10.5px 0.8px 10.5px 0;
+    width: 147px;
+    height: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .get-started-now {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-071, #182226);
+  }
+  .menu .content {
+    margin: 0 152px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1196px;
+    box-sizing: border-box;
+  }
+  .menu .title-1 {
+    margin-bottom: 88px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 780px;
+    box-sizing: border-box;
+  }
+  .menu .title-2 {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .our-menu {
+    margin: 0 40.4px 20px 40.4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-1-font-family, 'Playfair Display');
+    font-weight: var(--headline-h-1-font-weight, 400);
+    font-size: var(--headline-h-1-font-size, 100px);
+    line-height: var(--headline-h-1-line-height, 0.96);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .we-consider-all-the-drivers-of-change-gives-you-the-components-you-need-to-change-to-create-atruly-happens {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-18-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-18-px-regular-font-weight, 400);
+    font-size: var(--body-18-px-regular-font-size, 18px);
+    line-height: var(--body-18-px-regular-line-height, 1.556);
+    color: var(--neutral-06, #495460);
+  }
+  .menu .button-2 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+    width: 780px;
+    box-sizing: border-box;
+  }
+  .menu .button-base {
+    border-radius: 50px;
+    background: #AD343E;
+    display: flex;
+    padding: 12px 0;
+    width: 120px;
+    box-sizing: border-box;
+  }
+  .menu .button-3 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-01, #FFFFFF);
+  }
+  .menu .button-base-1 {
+    border-radius: 50px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    display: flex;
+    padding: 11px 0;
+    width: 150px;
+    box-sizing: border-box;
+  }
+  .menu .button-4 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  
+  .menu .button-base-2 {
+    border-radius: 50px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    display: flex;
+    padding: 11px 0;
+    width: 150px;
+    box-sizing: border-box;
+  }
+  .menu .button-5 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .button-base-3 {
+    border-radius: 50px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    display: flex;
+    padding: 11px 0;
+    width: 150px;
+    box-sizing: border-box;
+  }
+  .menu .button-6 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .button-base-4 {
+    border-radius: 50px;
+    border: 1px solid var(--neutral-03, #DBDFD0);
+    display: flex;
+    padding: 11px 0;
+    width: 150px;
+    box-sizing: border-box;
+  }
+  .menu .button-7 {
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-bold-font-weight, 700);
+    font-size: var(--body-16-px-bold-font-size, 16px);
+    line-height: var(--body-16-px-bold-line-height, 1.5);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+  .menu .container-4 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+  .menu .container-17 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .mask-group {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+  .menu .pexels-daniela-constantini-55916641 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_daniela_constantini_55916641.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    top: -209px;
+    right: -154px;
+    width: 566px;
+    height: 439px;
+  }
+  .menu .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  
+  .menu .container-18 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+  .menu .fried-eggs {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .made-with-eggs-lettuce-salt-oil-and-other-ingredients {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+  .menu .container-19 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .mask-group-1 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+  .menu .pexels-maksim-goncharenok-47737691 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_maksim_goncharenok_47737691.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    right: -144px;
+    bottom: -60px;
+    width: 462px;
+    height: 308px;
+  }
+  .menu .text-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .container-20 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+  .menu .hawaiian-pizza {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .made-with-eggs-lettuce-salt-oil-and-other-ingredients-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+  .menu .container-21 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .mask-group-2 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+  .menu .pexels-nadin-sh-129564241 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_nadin_sh_129564241.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: -75px;
+    height: 100%;
+  }
+  .menu .text-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .container-22 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+  .menu .martinez-cocktail {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .made-with-eggs-lettuce-salt-oil-and-other-ingredients-2 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+  .menu .container-23 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .mask-group-3 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+  .menu .pexels-ruslan-khmelevsky-78451211 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_ruslan_khmelevsky_78451211.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: -42px;
+    bottom: 0px;
+    width: 348px;
+    height: 230px;
+  }
+  .menu .text-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .container-24 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+  .menu .butterscotch-cake {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .made-with-eggs-lettuce-salt-oil-and-other-ingredients-3 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+  .menu .container {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+  .menu .container-25 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .container-27 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .container-29 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .container-31 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .mask-group-4 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+  .menu .pexels-bam-awey-53359181 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_bam_awey_53359181.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    top: -122px;
+    right: -2px;
+    width: 308px;
+    height: 352px;
+  }
+  .menu .text-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .container-26 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+  .menu .mint-lemonade {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .made-with-eggs-lettuce-salt-oil-and-other-ingredients-4 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+  .menu .mask-group-5 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+  .menu .pexels-roman-odintsov-50612541 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_roman_odintsov_50612541.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: -56px;
+    top: -61px;
+    width: 362px;
+    height: 291px;
+  }
+  .menu .text-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .container-28 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+  .menu .chocolate-icecream {
+    margin: 0 18.1px 15px 18.1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .made-with-eggs-lettuce-salt-oil-and-other-ingredients-5 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+  .menu .mask-group-6 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+  .menu .pexels-pixabay-3271581 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_pixabay_3271581.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: -73px;
+    top: -102px;
+    width: 379px;
+    height: 332px;
+  }
+  .menu .text-6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .container-30 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+  .menu .cheese-burger {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .menu .made-with-eggs-lettuce-salt-oil-and-other-ingredients-6 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+  .menu .container-31 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 34px;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .menu .mask-group-7 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 230px;
+  }
+  .menu .pexels-nicola-barts-79373861 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_nicola_barts_79373861.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: -24px;
+    top: -54px;
+    width: 342px;
+    height: 314px;
+  }
+  .menu .text-7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .menu .container-32 {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--headline-h-3-font-family, 'DM Sans');
+    font-weight: var(--headline-h-3-font-weight, 700);
+    font-size: var(--headline-h-3-font-size, 24px);
+    letter-spacing: var(--headline-h-3-letter-spacing, -0.7px);
+    line-height: var(--headline-h-3-line-height, 1.25);
+    color: #AD343E;
+  }
+  .menu .classic-waffles {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--body-20-px-bold-font-family, 'DM Sans');
+    font-weight: var(--body-20-px-bold-font-weight, 700);
+    font-size: var(--body-20-px-bold-font-size, 20px);
+    line-height: var(--body-20-px-bold-line-height, 1.3);
+    color: var(--neutral-07, #2C2F24);
+  }
+  .made-with-eggs-lettuce-salt-oil-and-other-ingredients-7 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+    font-weight: var(--body-16-px-regular-font-weight, 400);
+    font-size: var(--body-16-px-regular-font-size, 16px);
+    line-height: var(--body-16-px-regular-line-height, 1.5);
+    color: var(--neutral-061, #414536);
+  }
+ .brand {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 'fit-content';
+    padding-left: 50px;
+  }
+.title {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+ .you-can-order-through-apps {
+      font-family: var(--headline-h-2-font-family, 'Playfair Display');
+      font-weight: var(--headline-h-2-font-weight, 500);
+      font-size: var(--headline-h-2-font-size, 55px);
+      line-height: var(--headline-h-2-line-height, 1.1);
+      color: var(--neutral-07, #2C2F24);
+    }
+  .a {
+      margin: 0 58.6px 40px 58.6px;
+      display: flex;
+      flex-direction: row;
+      column-gap: 24px;
+      width: 710.7px;
+      box-sizing: border-box;
+    }
+  .container-1 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px solid #F9F9F7;
+      background: #FFFFFF;
+      position: relative;
+      display: flex;
+      flex-direction: row;
+      padding: 32.7px 0;
+      width: 220.9px;
+      box-sizing: border-box;
+    }
+.vector-1 {
+      margin: 0 8.6px 0px 0;
+      width: 71.7px;
+      height: 24.5px;
+    }
+  .vector {
+      width: 71.7px;
+      height: 24.5px;
+    }
+ .container-2 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px ;
+      position: relative;
+      display: flex;
+    }
+.vector-2 {
+      width: 117.1px;
+      height: 24.5px;
+    }
+    .container-3 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px solid #F9F9F7;
+      background: #FFFFFF;
+      position: relative;
+      display: flex;
+      padding: 32.7px 0.4px 32.7px 0;
+      width: 220.9px;
+      height: 90px;
+      box-sizing: border-box;
+    }
+    .menu .vector-3 {
+      width: 151.8px;
+      height: 24.5px;
+    }
+  .container-4 {
+      margin-bottom: 40px;
+      display: flex;
+      flex-direction: row;
+      column-gap: 24px;
+      width: 828px;
+      box-sizing: border-box;
+    }
+    .container-5 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px solid #F9F9F7;
+      background: #FFFFFF;
+      position: relative;
+      display: flex;
+      padding: 33px 0 32.5px 0.8px;
+      width: 260px;
+      height: 90px;
+      box-sizing: border-box;
+    }
+   .vector-4 {
+      width: 190.8px;
+      height: 24.5px;
+    }
+     .container-6 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px solid #F9F9F7;
+      background: #FFFFFF;
+      position: relative;
+      display: flex;
+      padding: 30px 0.1px 30px 0;
+      width: 260px;
+      height: 90px;
+      box-sizing: border-box;
+    }
+    .group {
+      width: 165.9px;
+      height: 30px;
+    }
+    .container-7 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px solid #F9F9F7;
+      background: #FFFFFF;
+      position: relative;
+      display: flex;
+      padding: 23px 0 22.4px 0.4px;
+      width: 260px;
+      height: 90px;
+      box-sizing: border-box;
+    }
+    .vector-9 {
+      width: 166.4px;
+      height: 44.6px;
+    }
+ .container-8 {
+      margin: 0 45px;
+      display: flex;
+      flex-direction: row;
+      column-gap: 24px;
+      width: 738px;
+      box-sizing: border-box;
+    }
+    .container-9 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px solid #F9F9F7;
+      background: #FFFFFF;
+      position: relative;
+      display: flex;
+      flex-direction: row;
+      padding: 30px 0 29.9px 0;
+      width: 230px;
+      box-sizing: border-box;
+    }
+.logo-1 {
+      margin-right: 8.5px;
+      width: 27px;
+      height: 30.1px;
+    }
+ .vector-10 {
+      margin: 5.4px 0 4px 0;
+      width: 114.9px;
+      height: 20.7px;
+    }
+   .container-10 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px solid #F9F9F7;
+      background: #FFFFFF;
+      position: relative;
+      display: flex;
+      padding: 33px 0.7px 32.7px 0;
+      width: 230px;
+      height: 90px;
+      box-sizing: border-box;
+    }
+   .group-39980 {
+      width: 137.3px;
+      height: 24.3px;
+    }
+  .container-11 {
+      box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+      border-radius: 12px;
+      border: 1px solid #F9F9F7;
+      background: #FFFFFF;
+      position: relative;
+      display: flex;
+      flex-direction: row;
+      padding: 30px 0 29.5px 0;
+      width: 230px;
+      box-sizing: border-box;
+    }
+  .vector-14 {
+      margin-right: 9.5px;
+      width: 37.7px;
+      height: 30.5px;
+    }
+  .vector-13 {
+      margin: 5.2px 9.5px 5px 0;
+      width: 49.9px;
+      height: 20.4px;
+    }
+   .food {
+      margin: 5.2px 0 5.6px 0;
+      width: 50.8px;
+      height: 19.8px;
+    }
+    .menu .footer {
+      background: #474747;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 120px 152px 85px 152px;
+      width: 'fit-content';
+      box-sizing: border-box;
+    }
+    .menu .top {
+      margin-bottom: 100px;
+      display: flex;
+      flex-direction: row;
+      width: fit-content;
+      box-sizing: border-box;
+    }
+    .menu .col-1 {
+      margin: 0 144.7px 197px 0;
+      display: flex;
+      flex-direction: column;
+      box-sizing: border-box;
+    }
+    .menu .logo-3 {
+      position: relative;
+      margin-bottom: 30px;
+      display: flex;
+      align-self: flex-start;
+      padding: 12px 0 14px 0;
+      width: 'fit-content';
+      box-sizing: border-box;
+    }
+    .menu .japanese-food-1 {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 56px;
+      height: 55px;
+    }
+
+.menu .original-logo-1 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu .cuisine {
+  overflow-wrap: break-word;
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 600;
+  font-size: 32.7px;
+  letter-spacing: -0.4px;
+  line-height: 0.898;
+  color: #FFFFFF;
+}
+.menu .in-the-new-era-of-technology-we-look-ain-the-future-with-certainty-and-pride-to-for-our-company-and {
+  margin-bottom: 30px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-04, #ADB29E);
+}
+.menu .social-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 12px;
+  width: 176px;
+  box-sizing: border-box;
+}
+.menu .container-33 {
+  border-radius: 17.5px;
+  background: #AD343E;
+  position: relative;
+  display: flex;
+  padding: 12.4px 9.8px 11.3px 11.3px;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.menu .logo-twitter-21 {
+  display: flex;
+  width: 14px;
+  height: 11.3px;
+  box-sizing: border-box;
+}
+.menu .vector-27 {
+  width: 14px;
+  height: 11.3px;
+}
+.menu .container-34 {
+  border-radius: 17.5px;
+  background: #AD343E;
+  position: relative;
+  display: flex;
+  padding: 10.2px 13.5px 9.6px 13.5px;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.menu .logo-fb-simple-21 {
+  display: flex;
+  width: 7.9px;
+  height: 15.2px;
+  box-sizing: border-box;
+}
+.menu .vector-28 {
+  width: 7.9px;
+  height: 15.2px;
+}
+.menu .container-35 {
+  border-radius: 17.5px;
+  background: #AD343E;
+  position: relative;
+  display: flex;
+  padding: 9px;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.menu .logo-instagram-11 {
+  display: flex;
+  width: 16.9px;
+  height: 16.9px;
+  box-sizing: border-box;
+}
+.menu .group-2 {
+  width: 16.9px;
+  height: 16.9px;
+}
+.menu .container-36 {
+  border-radius: 17.5px;
+  background: #AD343E;
+  position: relative;
+  display: flex;
+  padding: 9px 8.6px 10.2px 10.2px;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.menu .logo-github-11 {
+  display: flex;
+  width: 16.2px;
+  height: 15.8px;
+  box-sizing: border-box;
+}
+.menu .vector-32 {
+  width: 16.2px;
+  height: 15.8px;
+}
+.menu .col-2 {
+  margin: 0 136px 67px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.menu .col-21 {
+  margin-right: 120.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.menu .pages-1 {
+  margin: 0 14.3px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-bold-font-weight, 700);
+  font-size: var(--body-16-px-bold-font-size, 16px);
+  line-height: var(--body-16-px-bold-line-height, 1.5);
+  color: var(--neutral-01, #FFFFFF);
+}
+.menu .list {
+  display: flex;
+  flex-direction: column;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+
+ .home-1 {
+  margin: 0 16.6px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.about-1{
+  margin: 0 16.6px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .menu-8 {
+  margin: 0 19.4px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .pricing {
+  margin: 0 10.2px 20px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .blog {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .contact-1 {
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .delivery {
+  margin-right: 0.9px;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .col-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.utility-pages {
+  margin-bottom: 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-bold-font-weight, 700);
+  font-size: var(--body-16-px-bold-font-size, 16px);
+  line-height: var(--body-16-px-bold-line-height, 1.5);
+  color: var(--neutral-01, #FFFFFF);
+}
+.menu .list-1 {
+  display: flex;
+  flex-direction: column;
+  width:' fit-content';
+  box-sizing: border-box;
+}
+.menu .start-here {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .styleguide {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .password-protected {
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .not-found {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .licenses {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .changelog {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .view-more {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-03, #DBDFD0);
+}
+.menu .col-31 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.menu .follow-us-on-instagram {
+  margin-bottom: 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-bold-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-bold-font-weight, 700);
+  font-size: var(--body-16-px-bold-font-size, 16px);
+  line-height: var(--body-16-px-bold-line-height, 1.5);
+  color: var(--neutral-01, #FFFFFF);
+}
+.menu .img {
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 403px;
+  box-sizing: border-box;
+}
+.menu .container-1 {
+  margin: 0 0.2px 15px 0;
+  display: flex;
+  flex-direction: row;
+  width: 402.8px;
+  box-sizing: border-box;
+}
+.menu .mask-group-8 {
+  border-radius: 12px;
+  position: relative;
+  margin-right: 14.8px;
+  width: 194px;
+  box-sizing: border-box;
+}
+.menu .pexels-steve-37898851 {
+  border-radius: 12px;
+  background: url('../assets/images/pexels_steve_37898851.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -17px;
+  bottom: -6px;
+  width: 222px;
+  height: 176px;
+}
+.menu .mask-group-9 {
+  border-radius: 12px;
+  display: flex;
+  width: 194px;
+  height: 170px;
+  box-sizing: border-box;
+}
+.menu .eiliv-aceron-d-5-pb-kqj-0-lu-8-unsplash-1 {
+  border-radius: 12px;
+  background: url('../assets/images/eiliv_aceron_d_5_pb_kqj_0_lu_8_unsplash_1.jpeg') 50% / cover no-repeat;
+  width: 194px;
+  height: 170px;
+}
+.menu .container-3 {
+  display: flex;
+  flex-direction: row;
+  width: 403px;
+  box-sizing: border-box;
+}
+.menu .mask-group-10 {
+  border-radius: 12px;
+  position: relative;
+  margin-right: 15px;
+  width: 194px;
+  box-sizing: border-box;
+}
+.menu .pexels-ella-olsson-16407721 {
+  border-radius: 12px;
+  background: url('../assets/images/pexels_ella_olsson_16407721.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -50px;
+  bottom: 0px;
+  width: 244px;
+  height: 170px;
+}
+.menu .mask-group-11 {
+  border-radius: 12px;
+  position: relative;
+  width: 194px;
+  box-sizing: border-box;
+}
+.menu .pexels-ash-3764641 {
+  border-radius: 12px;
+  background: url('../assets/images/pexels_ash_3764641.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: -27px;
+  bottom: -23px;
+  width: 236px;
+  height: 208px;
+}
+.menu .bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1096px;
+  box-sizing: border-box;
+}
+.menu .line-311 {
+  background: #414536;
+  margin-bottom: 29px;
+  width: 1096px;
+  height: 0px;
+}
+.menu .copyright-2023-hashtag-developer-all-rights-reserved {
+  margin-left: 3.8px;
+  overflow-wrap: break-word;
+  font-family: var(--body-16-px-regular-font-family, 'DM Sans');
+  font-weight: var(--body-16-px-regular-font-weight, 400);
+  font-size: var(--body-16-px-regular-font-size, 16px);
+  line-height: var(--body-16-px-regular-line-height, 1.5);
+  color: var(--neutral-04, #ADB29E);
+}
+
+

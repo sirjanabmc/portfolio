@@ -1,0 +1,316 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.navi{
+height: 45px;
+width: 100%;
+background-color: gray;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 55%;
+position: fixed;
+left: 0;
+right: 0;
+}
+nav{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+  background-color: white;
+  justify-content: space-around;
+}
+.nav1{
+  display: flex;
+  align-content: center;
+  gap: 15%;
+}
+
+.nm{
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+a{
+  text-decoration: none;
+  color: Black;
+  font-size: 16px;
+
+}
+button{
+  border-radius: 30px;
+  height: 48px;
+  width: 140px;
+  background-color: white;
+}
+.cnt{
+  display: flex;
+  gap: 20px;
+}
+.icon{
+  display: flex;
+  gap: 5px;
+}
+i{
+  background-color: gray;
+  padding: 4px;
+  font-size: 16px;
+border-radius: 15%;
+
+}
+.text-box{
+  width: 30%;
+ 
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  text-align: center;
+ 
+}
+  .text-box h1{
+      font-size: 40px;
+      color: black;
+      text-align: center;
+  }
+  .text-box p{
+      margin: 10px 0 40px;
+      font-size: 14px;
+      color: black;
+  }
+
+.hero-btn{
+display: inline-block;
+text-decoration: none;
+color: black;
+border: 1px solid rgb(205, 57, 57);
+padding: 12px 34px;
+font-size: 10px;
+position: relative;
+cursor: pointer	;
+}
+.n-btn{
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  border: 1px solid ;
+  padding: 12px 34px;
+  font-size: 10px;
+
+  cursor: pointer	;
+  background-color: red;
+  }
+  .browse-our-menu{
+    text-align: center;
+  }
+  .a-btn{
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    border: 1px solid red;
+    padding: 12px 34px;
+    font-size: 10px;
+    cursor: pointer	;
+    
+    }
+    .homepage .a {
+      margin-bottom: 31px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 'fit-content';
+      box-sizing: border-box;
+    }
+    .homepage .b{
+      margin-bottom: 31px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 'fit-content';
+      box-sizing: border-box;
+    }
+    .homepage .c {
+      margin-bottom: 31px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 'fit-content';
+      box-sizing: border-box;
+    }
+    .homepage .d {
+      margin-bottom: 31px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 'fit-content';
+      box-sizing: border-box;
+    }
+    .homepage .dd{
+      opacity: 0.07;
+      border-radius: 50px;
+      background: #4D592B;
+      position: relative;
+      margin-bottom: 30px;
+      display: flex;
+      padding: 25px 0 25px 0.2px;
+      width: 100px;
+      height: 100px;
+      box-sizing: border-box;
+    }
+    .homepage .cc{
+      opacity: 0.07;
+      border-radius: 50px;
+      background: #4D592B;
+      position: relative;
+      margin-bottom: 30px;
+      display: flex;
+      padding: 25px 0.6px 25px 0;
+      width: 100px;
+      height: 100px;
+      box-sizing: border-box;
+    }
+    .homepage .bb{
+      opacity: 0.07;
+      border-radius: 50px;
+      background: #4D592B;
+      position: relative;
+      margin-bottom: 30px;
+      display: flex;
+      padding: 25px 0 25px 0.6px;
+      width: 100px;
+      height: 100px;
+      box-sizing: border-box;
+    }
+    .homepage .aa {
+      opacity: 0.07;
+      border-radius: 50px;
+      background: #4D592B;
+      position: relative;
+      margin-bottom: 30px;
+      display: flex;
+      padding: 28px 0;
+      width: 100px;
+      height: 100px;
+      box-sizing: border-box;
+    }
+
+.header{
+	min-height: 80vh;
+	width: 100%;
+	background-image: url(./Mask\ group.png);
+	background-position: center;
+	background-size: cover;
+	
+	}
+  .sri img{
+    width: 150px;
+  }
+  .sans{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+        height: 100px;
+      width: 80%;
+      gap: 10%;
+  }
+  .homepage .menu-1 {
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 92px 152px 120px 152px;
+    width: 1600px;
+    box-sizing: border-box;
+}
+  .sa{
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .sb {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  }
+  .sc {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  }
+   .sd {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  } 
+  
+   .deb {
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #AD343E;
+  }
+   .ben {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 700;
+    font-size:  16px;
+    line-height: 1.5;
+    color: #AD343E;
+  }
+  .dra {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 700;
+    font-size:  16px;
+    line-height:1.5;
+    color: #AD343E;
+  }
+  .kri{
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #AD343E;
+  }
+  .card-3{
+display: flex;
+  }
+  .title-5{
+    font-size: 30px;
+    text-align: center;
+  }

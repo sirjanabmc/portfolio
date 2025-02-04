@@ -1,0 +1,2202 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.homepage .hero {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1510px;
+  }
+  .homepage .header {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1510px;
+  }
+  .homepage .top-bar {
+    background: #474747;
+    margin-bottom: 29px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 9px 154.3px 8.8px 152.3px;
+    width: 1510px;
+  }
+  .homepage .info-1 {
+    margin: 2px 0 1.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 341.5px;
+    height: 'fit-content';
+  }
+  .homepage .call-1 {
+    display: flex;
+    flex-direction: row;
+  }
+  .homepage .f {
+    margin: 5.3px 10.3px 5.3px 0;
+    display: flex;
+    width: 13.5px;
+    height: 13.5px;
+  }
+  .homepage .container-28 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 400;
+    font-size:  16px;
+    line-height:1.5;
+    color:  #F9F9F7;
+  }
+  .homepage .mail-1 {
+    display: flex;
+    flex-direction: row;
+  }
+  .homepage .g {
+    margin: 6.8px 10.3px 6.8px 0;
+    display: flex;
+    width: 13.5px;
+    height: 10.5px;
+  }
+  .homepage .icon-14 {
+    width: 13.5px;
+    height: 10.5px;
+  }
+  .homepage .yummybistrobliss {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  400;
+    font-size: 16px;
+    line-height: 1.5;
+    color:  #F9F9F7;
+  }
+  .homepage .social-1 {
+    display: flex;
+    flex-direction: row;
+    width: 120.7px;
+    height: 'fit-content';
+  }
+  .homepage .container-24 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 5px;
+    width: 27.2px;
+    height: 27.2px;
+  }
+  .homepage .logo-twitter-21 {
+    display: flex;
+    width: 10.8px;
+    height: 8.8px;
+  }
+  .homepage .container-25 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 5.5px;
+    width: 27.2px;
+    height: 27.2px;
+  }
+  .homepage .m {
+    display: flex;
+    width: 6.1px;
+    height: 11.8px;
+  }
+  
+  .homepage .container-26 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    margin-right: 4px;
+    display: flex;
+    padding: 6px;
+    width: 27.2px;
+    height: 27.2px;
+  }
+  .homepage .c {
+    display: flex;
+    width: 13.1px;
+    height: 13.1px;
+  }
+  .homepage .group-3 {
+    width: 13.1px;
+    height: 13.1px;
+  }
+  .homepage .container-27 {
+    border-radius: 13.6px;
+    background: rgba(249, 249, 247, 0.12);
+    position: relative;
+    display: flex;
+    padding: 6px;
+    width: 27.2px;
+    height: 27.2px;
+  }
+  .homepage .d{
+    display: flex;
+    width: 12.6px;
+    height: 12.3px;
+  }
+  .homepage .vector-25 {
+    width: 12.6px;
+    height: 12.3px;
+  }
+  .homepage .header-1 {
+    margin: 0 155.5px 0 151.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1293px;
+  }
+  .homepage .logo-1 {
+    position: relative;
+    display: flex;
+    padding: 12px 0 14px 0;
+    width: 278.3px;
+  }
+  .homepage .uf {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 150px;
+    height: 45px;
+  }
+  .homepage .k {
+    position: relative;
+    display: flex;
+  }
+  .homepage .cuisine-1 {
+    overflow-wrap: break-word;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 42.7px;
+    letter-spacing: -0.4px;
+    line-height: 0.687;
+    color: #474747;
+  }
+  .homepage .menu-2 {
+    border-radius: 34px;
+    margin: 11.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 416.6px;
+    height: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .container-1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }.homepage .menu-3 {
+    border-radius: 34px;
+    background: #DBDFD0;
+    margin-right: 24px;
+    display: flex;
+    padding: 4px 16.6px 4px 16px;
+    box-sizing: border-box;
+  }
+  .homepage .home-1 {
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  500;
+    font-size:  16px;
+    line-height:  1.5;
+    color:  #2C2F24;
+  }
+  .homepage .menu-4 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .homepage .about-2 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  500;
+    font-size:  16px;
+    line-height: 1.5;
+    color:  #2C2F24;
+  }
+  .homepage .menu-5 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .homepage .menu-6 {
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height:1.5;
+    color:  #2C2F24;
+  }
+  .homepage .menu-7 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .homepage .pages-1 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  500;
+    font-size:  16px;
+    line-height: 1.5;
+    color:  #2C2F24;
+  }
+  .homepage .menu-8 {
+    border-radius: 34px;
+    margin: 4px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .homepage .contact-1 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 500;
+    font-size:  16px;
+    line-height: 1.5;
+    color:  #2C2F24;
+  }
+  .homepage .button-4 {
+    border-radius: 118px;
+    margin: 3.5px 0;
+    display: flex;
+    width: 147px;
+    height: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .button-5 {
+    border-radius: 118px;
+    border: 1.5px solid  #2C2F24;
+    width: 147px;
+    height: 'fit-content';
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 10px;
+}
+  
+  .homepage .get-started-now-4 {
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size:  16px;
+    line-height:  1.5;
+    color: #182226;
+  }
+  .homepage .content-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 207px 0 203px 0;
+    width: 1510px;
+    box-sizing: border-box;
+  }
+  .homepage .mask-group-12 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .homepage .text-22 {
+    position: relative;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .best-food-for-your-taste {
+    margin-bottom: 32px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family:  'Playfair Display';
+    font-weight: 400;
+    font-size:  100px;
+    line-height:  0.96;
+    color: #2C2F24;
+  }
+  .homepage .sa{
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 400;
+    font-size:  20px;
+    line-height:  1.6;
+    color:  #2C2F24;
+  }
+  .homepage .buttons {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 349px;
+    box-sizing: border-box;
+  }
+  .homepage .button-2 {
+    border-radius: 100px;
+    background: #AD343E;
+    margin-right: 12px;
+    text-align: center;
+    padding-top: 10px;
+    width: 150px;
+    box-sizing: border-box;
+    padding-bottom: 9px;
+  }
+  .homepage .get-started-now-2 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 700;
+    font-size:  16px;
+    line-height:  1.5;
+    color: #FFFFFF;
+  }
+  .homepage .button-3 {
+    border-radius: 118px;
+    border: 1.5px solid #2C2F24;
+    text-align: center;
+    padding-top: 10px;
+    width: 150px;
+    box-sizing: border-box;
+  }
+  .homepage .get-started-now-3 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  700;
+    font-size:  16px;
+    line-height:  1.5;
+    color: #182226;
+  }
+
+  .homepage .menu-1 {
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 92px 152px 120px 152px;
+    width: 1510px;
+    box-sizing: border-box;
+  }
+  .homepage .title-5 {
+    margin-bottom: 64px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .homepage .browse-our-menu {
+    overflow-wrap: break-word;
+    font-family:  'Playfair Display';
+    font-weight:  500;
+    font-size:  55px;
+    line-height: 1.1;
+    color:  #2C2F24;
+  }
+  .homepage .card-3 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+  .homepage .container-20 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    box-sizing: border-box;
+  }
+
+  
+  .homepage .icon-3 {
+    opacity: 0.07;
+    border-radius: 50px;
+    background: #4D592B;
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    padding: 28px 0;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+  .homepage .tea-1 {
+    display: flex;
+    width: 42px;
+    height: 44px;
+    box-sizing: border-box;
+  }
+  .homepage .group-1 {
+    width: 42px;
+    height: 44px;
+  }
+
+  .homepage .text-18 {
+    margin-bottom: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .breakfast {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  700;
+    font-size: 24px;
+    letter-spacing: -0.7px;
+    line-height:  1.25;
+    color: #2C2F24;
+  }
+  .homepage .sa {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  400;
+    font-size:  16px;
+    line-height: 1.5;
+    color:  #414536;
+  
+  }
+  .homepage .button-base {
+    border-radius: 12px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .homepage .button-6 {
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #AD343E;
+  }
+  .icon-13{
+    color: white;
+  }
+  .icon-14{
+    color: white;
+  }
+  i{
+    color: white;
+  }
+  .homepage .container-21 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+   
+  }
+  .homepage .icon-4 {
+    opacity: 0.07;
+    border-radius: 50px;
+    background: #4D592B;
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    padding: 25px 0 25px 0.6px;
+    width: 100px;
+    height: 100px;
+    
+  }
+  .homepage .vector-16 {
+    width: 52.6px;
+    height: 50px;
+  }
+  .homepage .text-19 {
+    margin-bottom: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+   
+  }
+  .homepage .main-dishes {
+    margin-bottom: 15px;
+    font-family: 'DM Sans';
+    font-weight:  700;
+    font-size:  24px;
+    line-height: 1.25;
+    color:  #2C2F24;
+  }
+  .homepage .l {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family:'DM Sans';
+    font-weight:  400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #414536;
+  }
+  .homepage .button-base-1 {
+    border-radius: 12px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .homepage .button-7 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 700;
+    font-size:  16px;
+    line-height:  1.5;
+    color: #AD343E;
+  }
+  
+  .homepage .icon-5 {
+    opacity: 0.07;
+    border-radius: 50px;
+    background: #4D592B;
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    padding: 25px 0.6px 25px 0;
+    width: 100px;
+    height: 100px;
+  }
+  .homepage .vector-17 {
+   font-size: 60px;
+  text-align: center;
+  padding-left: 18%;
+
+  }
+  .homepage .text-20 {
+    margin-bottom: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+  }
+  .homepage .drinks {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  700;
+    font-size: 24px;
+    letter-spacing:  -0.7px;
+    line-height: 1.25;
+    color:  #2C2F24;
+  }
+  .homepage .sana {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  400;
+    font-size:  16px;
+    line-height: 1.5;
+    color: #414536;
+  }
+  .homepage .button-base-2 {
+    border-radius: 12px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .homepage .button-8 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  700;
+    font-size:  16px;
+    line-height:  1.5;
+    color: #AD343E;
+  }
+ 
+  .homepage .icon-6 {
+    opacity: 0.07;
+    border-radius: 50px;
+    background: #4D592B;
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    padding: 25px 0 25px 0.2px;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+  .homepage .group-2 {
+    width: 50.2px;
+    height: 50px;
+  }
+  .homepage .text-21 {
+    margin-bottom: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .desserts {
+    margin-bottom: 15px;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 700;
+    font-size:  24px;
+    letter-spacing: -0.7px;
+    line-height: 1.25;
+    color:  #2C2F24;
+  }
+  .homepage .saa {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size:  16px;
+    line-height:  1.5;
+    color:  #414536;
+  }
+  .homepage .button-base-3 {
+    border-radius: 12px;
+    display: flex;
+  }
+  .homepage .button-9 {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  700;
+    font-size: 16px;
+    line-height:  1.5;
+    color: #AD343E;
+  }
+  .homepage .container-22 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+  }
+  .homepage .container-23 {
+    border-radius: 12px;
+    border: 1.5px solid #DBDFD0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0 33px 0;
+    width: 306px;
+    }
+  .homepage .about-1 {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 120px 0 120px 152px;
+    width: 1510px;
+  }
+  .homepage .image-111 {
+    
+    position: relative;
+    width: 758px;
+    height: 1137px;
+  }
+  .homepage .img-2 {
+    position: relative;
+    margin: 120px 90px 0 0;
+    padding-top: 295px;
+    width: 649px;
+    height: 'fit-content';
+  }
+  .homepage .image-2 {
+    border-radius: 12px;
+    background: #DBEAFE;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 599px;
+    height: 566px;
+  }
+  .homepage .card-2 {
+    border-radius: 12px;
+    background: #474747;
+    display: flex;
+    padding: 50px 0;
+    width: 411px;
+    height: 'fit-content';
+    position: absolute;
+    top: 400px;
+    left: 280px;
+  }
+  .homepage .text-16 {
+    background: #474747;
+    display: flex;
+    flex-direction: column;
+    padding-right: 7.7px;
+  }
+  .homepage .come-and-visit-us {
+    margin-bottom: 45px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  700;
+    font-size:  24px;
+    letter-spacing: -0.7px;
+    line-height: 1.25;
+    color:  #FFFFFF;
+  }
+  .homepage .info {
+    margin-left: 3px;
+    display: flex;
+    flex-direction: column;
+    width: 'fit-content';
+  }
+  .homepage .call {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 'fit-content';
+  }
+  .homepage .icon-outlinephone {
+    margin: 3px 23px 3px 0;
+    width: 18px;
+    height: 18px;
+  }
+    .homepage .s2 {
+      overflow-wrap: break-word;
+      font-family:  'DM Sans';
+      font-weight:  400;
+      font-size:  16px;
+      line-height:  1.5;
+      color:  #F9F9F7;
+    }
+    .homepage .mail {
+      margin-bottom: 25px;
+      display: flex;
+      flex-direction: row;
+      align-self: flex-start;
+      width: 'fit-content';
+    
+    }
+    .homepage .icon-outlinemail {
+      margin: 5px 23px 5px 0;
+      width: 18px;
+      height: 14px;
+    }
+      .homepage .icon-11 {
+        width: 18px;
+        height: 14px;
+      }
+      .homepage .s1{
+        overflow-wrap: break-word;
+        font-family:  'DM Sans';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+      .homepage .location {
+        margin-left: 1px;
+        display: flex;
+        flex-direction: row;
+        width: 'fit-content';
+        
+      }
+      .homepage .icon-outlinelocation-marker {
+        margin: 3px 24px 25.7px 0;
+        width: 16px;
+        height: 19.3px;
+       
+      }
+      .homepage .icon-12 {
+        width: 16px;
+        height: 19.3px;
+      }
+      .homepage .kho {
+        overflow-wrap: break-word;
+        font-family:  'DM Sans';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #F9F9F7;
+      }
+      .homepage .text-17 {
+        margin: 199.5px 0 79.5px 0;
+        display: flex;
+        flex-direction: column;
+        
+      }
+        .homepage .title-4 {
+          margin-bottom: 40px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          width: 'fit-content';
+        }
+        .homepage .ma {
+          margin: 0 42.7px 23px 0;
+          overflow-wrap: break-word;
+          font-family: 'Playfair Display';
+          font-weight:  500;
+          font-size:  55px;
+          line-height:  1.1;
+          color: #2C2F24;
+        }
+        .homepage .ta {
+          margin-bottom: 24px;
+          overflow-wrap: break-word;
+          font-family: 'DM Sans';
+          font-weight: 500;
+          font-size: 18px;
+          line-height:  1.556;
+          color:  #2C2F24;
+        }
+        .homepage .fa {
+          margin-right: 10.6px;
+          overflow-wrap: break-word;
+          font-family:  'DM Sans';
+          font-weight:  400;
+          font-size:  16px;
+          line-height:  1.5;
+          color:  #414536;
+        }
+        .homepage .button-1 {
+          border-radius: 118px;
+          border: 1.5px solid  #2C2F24;
+          border-radius: 100px;
+
+          margin-right: 12px;
+          text-align: center;
+          padding-top: 10px;
+          width: 150px;
+          box-sizing: border-box;
+          padding-bottom: 9px;
+        }
+        .homepage .g1 {
+          overflow-wrap: break-word;
+          font-family:  'DM Sans';
+          font-weight:  700;
+          font-size:  16px;
+          color:  #182226;
+        }
+        .image-111 img{
+        height: 566px;
+       width: 599px;
+        }
+        .homepage .services {
+          background: #FFFFFF;
+          position: relative;
+          display: flex;
+          flex-direction: column;
+          padding: 120px 152px 120px 151.2px;
+          width: 'fit-content';
+          box-sizing: border-box;
+        }
+        .homepage .title-3 {
+          margin: 0 0.8px 63px 0.8px;
+          display: flex;
+          align-self: flex-start;
+          box-sizing: border-box;
+        }
+        .homepage .hlo {
+          overflow-wrap: break-word;
+          font-family: 'Playfair Display';
+          font-weight: 500;
+          font-size:  55px;
+          line-height:  1.1;
+          color:  #2C2F24;
+        }
+        .homepage .card-1 {
+          display: flex;
+          flex-direction: row;
+          width: 'fit-content';
+          box-sizing: border-box;
+        }
+        .homepage .container-15 {
+          margin-right: 23.4px;
+          display: flex;
+          flex-direction: column;
+          box-sizing: border-box;
+        }
+        .homepage .kebab-set-table-1 {
+          border-radius: 12px;
+          background: url('./kebab-set-table\ 1.png') 50% / cover no-repeat;
+          margin: 0 0 30px 0.8px;
+          width: 306px;
+          height: 320px;
+        }
+        .homepage .text-12 {
+          display: flex;
+          flex-direction: column;
+          align-self: flex-start;
+          width: 'fit-content';
+          box-sizing: border-box;
+        }
+        .homepage .caterings {
+          margin-bottom: 15px;
+          display: inline-block;
+          align-self: flex-start;
+          overflow-wrap: break-word;
+          font-family:  'DM Sans';
+          font-weight:  700;
+          font-size:  24px;
+          letter-spacing:-0.7px;
+          line-height:  1.25;
+          color:  #2C2F24;
+        }
+        .homepage .in-the-new-era-of-technology-we-look-in-the-future-with-certainty-for-life {
+          margin-left: 0.8px;
+          overflow-wrap: break-word;
+          font-family: 'DM Sans';
+          font-weight: 400;
+          font-size: 16px;
+          line-height:  1.5;
+          color:  #414536;
+        }
+        .homepage .container-16 {
+          margin-right: 23.3px;
+          display: flex;
+          flex-direction: column;
+          box-sizing: border-box;
+        }
+        .homepage .mask-group-9 {
+          border-radius: 12px;
+          position: relative;
+          margin: 0 0 30px 0.6px;
+          width: 306px;
+          height: 320px;
+        }
+        .homepage .charming-female-blowing-candles-birthday-cake-after-making-her-wish-party-1 {
+            border-radius: 12px;
+            background: url('./Mask\ group\ \(1\).png') 50% / cover no-repeat;
+            margin: 0 0 30px 0.8px;
+            width: 306px;
+            height: 320px;
+          }
+        .homepage .text-13 {
+          display: flex;
+          flex-direction: column;
+          align-self: flex-start;
+          width: 'fit-content';
+          box-sizing: border-box;
+        }
+        .homepage .birthdays {
+          margin-bottom: 15px;
+          display: inline-block;
+          align-self: flex-start;
+          overflow-wrap: break-word;
+          font-family: 'DM Sans';
+          font-weight: 700;
+          font-size:  24px;
+          letter-spacing: -0.7px;
+          line-height: 1.25;
+          color:  #2C2F24;
+        }
+        .homepage .s1 {
+          margin-left: 0.6px;
+          overflow-wrap: break-word;
+          font-family: 'DM Sans';
+          font-weight: 400;
+          font-size: 16px;
+          line-height:  1.5;
+         color: white;
+        }
+        .homepage .container-17 {
+          margin-right: 23.6px;
+          display: flex;
+          flex-direction: column;
+          box-sizing: border-box;
+        }
+        .homepage .mask-group-10 {
+          border-radius: 12px;
+          background: url('./Mask\ group\ \(2\).png');
+          position: relative;
+          margin: 0 0 30px 0.7px;
+          width: 306px;
+          height: 320px;
+        }
+        .homepage .happy-man-wife-sunny-day-2 {
+          mix-blend-mode: color-burn;
+          border-radius: 12px;
+          position: absolute;
+          left: -24px;
+          bottom: 0px;
+          width: 330px;
+          height: 320px;
+        }
+        .homepage .text-14 {
+          display: flex;
+          flex-direction: column;
+          align-self: flex-start;
+          width: 'fit-content';
+          box-sizing: border-box;
+        }
+
+.homepage .weddings {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family:'DM Sans';
+  font-weight: 700;
+  font-size:  24px;
+  letter-spacing:-0.7px;
+  line-height:  1.25;
+  color:  #2C2F24;
+}
+.homepage .weddings {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family:  'DM Sans';
+  font-weight:  700;
+  font-size:  24px;
+  letter-spacing:  -0.7px;
+  line-height:  1.25;
+  color:  #2C2F24;
+}
+.homepage .container-18 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage .mask-group-11 {
+  border-radius: 12px;
+  position: relative;
+  margin: 0 0 30px 0.4px;
+  width: 306px;
+  height: 320px;
+}
+.homepage .group-friends-eating-restaurant-1 {
+  border-radius: 12px;
+ background: url('./Mask\ group\ \(3\).png') 50% / cover no-repeat;
+  margin: 0 0 30px 0.8px;
+width: 306px;
+height: 320px;
+        
+}
+.homepage .text-15 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 'fit-content';
+}
+.homepage .events {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight:  700;
+  font-size:24px;
+  letter-spacing: -0.7px;
+  line-height:  1.25;
+  color:  #2C2F24;
+}
+.homepage .s3 {
+  margin-left: 0.4px;
+  overflow-wrap: break-word;
+  font-family:  'DM Sans';
+  font-weight: 400;
+  font-size:  16px;
+  line-height:  1.5;
+  color:  #414536;
+}
+.homepage .content {
+  background: #F9F9F7;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 119px 0 147px 152px;
+  width: 1510px;
+  box-sizing: border-box;
+}
+.homepage .img-1 {
+  border-radius: 12px;
+  margin: 119px 90px 0 0;
+  display: flex;
+  flex-direction: row;
+  width: 745px;
+  height: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .mid-shot-chef-holding-plate-with-pasta-making-ok-sign-1 {
+  border-radius: 12px;
+  background: url('./mid-shot-chef-holding-plate-with-pasta-making-ok-sign\ 1.png') 50% / cover no-repeat;
+  margin: 1px 24px 0 0;
+  width: 431px;
+  height: 600px;
+}
+.homepage .container-3 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 290px;
+  height: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food-1 {
+  border-radius: 12px;
+  background: url('./sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food\ 1.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 290px;
+  height: 333px;
+}
+.homepage .sadj-iron-pot-with-various-salads-1 {
+  border-radius: 12px;
+  background: url('./sadj-iron-pot-with-various-salads\ 1.png') 50% / cover no-repeat;
+  width: 290px;
+  height: 240px;
+}
+.homepage .text-11 {
+  margin: 249px 0 102px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage .title-2 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .fastest-food-delivery-in-city {
+  margin: 0 22.4px 19px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family:  'Playfair Display';
+  font-weight:  500;
+  font-size:  55px;
+  line-height: 1.1;
+  color:  #2C2F24;
+}
+.homepage .you-made-it-so-simp {
+  overflow-wrap: break-word;
+  font-family:  'DM Sans';
+  font-weight:  400;
+  font-size:  16px;
+  line-height:  1.5;
+  color:  #414536;
+}
+.homepage .features {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .container-12 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .icon {
+  border-radius: 65px;
+  background: #AD343E;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  padding: 7px 7.9px 7.9px 7px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.homepage .icon-outlineclock {
+  background: #AD343E;
+  display: flex;
+  padding: 1.9px;
+  width: 15.1px;
+  height: 15.1px;
+  box-sizing: border-box;
+}
+.homepage .icon-7 {
+  width: 11.3px;
+  height: 11.3px;
+}
+.homepage .delivery-within-30-minutes {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight:  500;
+  font-size: 20px;
+  line-height:  1.3;
+  color:  #2C2F24;
+}
+.homepage .container-13 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .icon-1 {
+  border-radius: 65px;
+  background: #AD343E;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  padding: 7px 7.9px 7.9px 7px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.homepage .icon-outlinereceipt-tax {
+  background: #AD343E;
+  display: flex;
+  padding: 1.9px 3.1px;
+  width: 15.1px;
+  height: 15.1px;
+  box-sizing: border-box;
+}
+.homepage .icon-8 {
+  width: 8.8px;
+  height: 11.3px;
+}
+.homepage .best-offer-prices {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family : 'DM Sans';
+  font-weight:  500;
+  font-size: 20px;
+  line-height: 1.3;
+  color:  #2C2F24;
+}
+.homepage .container-14 {
+  margin-right: 16px;
+  display: flex;
+  flex-direction: row;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .icon-2 {
+  border-radius: 65px;
+  background: #AD343E;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  padding: 7px 7.9px 7.9px 7px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.homepage .icon-outlineshopping-cart {
+  background: #AD343E;
+  display: flex;
+  padding: 1.9px;
+  width: 15.1px;
+  height: 15.1px;
+  box-sizing: border-box;
+}
+.homepage .icon-9 {
+  width: 11.3px;
+  height: 11.3px;
+}
+.homepage .online-services-available {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family:  'DM Sans';
+  font-weight:  500;
+  font-size:  20px;
+  line-height: 1.3;
+  color:  #2C2F24;
+}
+.homepage .testimonial {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 98px 152px 135px 152px;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .title-1 {
+  margin-bottom: 64px;
+  display: flex;
+  box-sizing: border-box;
+}
+.homepage .what-our-customers-say {
+  overflow-wrap: break-word;
+  font-family: 'Playfair Display';
+  font-weight: 500;
+  font-size:55px;
+  line-height:  1.1;
+  color:  #2C2F24;
+}
+.homepage .card {
+  display: flex;
+  flex-direction: row;
+  column-gap: 24px;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .container-9 {
+  border-radius: 12px;
+  background: #F9F9F7;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 45px 35px 35px 35px;
+  box-sizing: border-box;
+}
+.homepage .container-10 {
+  border-radius: 12px;
+  background: #F9F9F7;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 45px 35px 35px 35px;
+  box-sizing: border-box;
+}
+.homepage .container-11 {
+  border-radius: 12px;
+  background: #F9F9F7;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 45px 35px 35px 35px;
+  box-sizing: border-box;
+}
+.homepage .text-5 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .text-6 {
+  margin: 9.5px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepage .text-7 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .line-310 {
+  opacity: 0.7;
+  background: #DBDFD0;
+  margin-bottom: 31px;
+  width: 346px;
+  height: 1px;
+}
+.homepage .line-3101 {
+  opacity: 0.7;
+  background: #DBDFD0;
+  margin-bottom: 31px;
+  width: 346px;
+  height: 1px;
+}
+.homepage .line-3102{
+  opacity: 0.7;
+  background: #DBDFD0;
+  margin-bottom: 31px;
+  width: 346px;
+  height: 1px;
+}
+.homepage .user {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 'fit-content';
+  box-sizing: border-box;
+}
+.homepage .ellipse-19 {
+  border-radius: 35px;
+  background: url('./Image\ \(4\).png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 70px;
+  height: 70px;
+}
+.homepage .the-best-restaurant {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 700;
+  font-size:  24px;
+  letter-spacing:  -0.7px;
+  line-height:  1.25;
+  color: #AD343E;
+}
+.homepage .sophire-robson {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family:  'DM Sans';
+  font-weight:  700;
+  font-size: 16px;
+  line-height:  1.5;
+  color:  #2C2F24;
+}
+.homepage .simply-delicious {
+  margin-bottom: 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family:  'DM Sans';
+  font-weight: 700;
+  font-size:  24px;
+  letter-spacing: -0.7px;
+  line-height: 1.25;
+  color: #AD343E;
+}
+.homepage .san-francisco-ca {
+  overflow-wrap: break-word;
+  font-family:'DM Sans';
+  font-weight:  400;
+  font-size: 16px;
+  line-height:  1.5;
+  color:  #414536;
+}
+.homepage .andy-smith {
+  margin-bottom: 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight:  700;
+  font-size:  16px;
+  line-height:  1.5;
+  color:  #2C2F24;
+}
+.homepage .text-10 {
+  margin: 9.5px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage .text-10 {
+  margin: 9.5px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage .image-1 {
+  border-radius: 35px;
+  background: url('./Ellipse\ 19.png') 50% / cover no-repeat;
+  margin-right: 20px;
+  width: 70px;
+  height: 70px;}
+  .homepage .one-of-akind-restaurant {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size:  24px;
+    letter-spacing: -0.7px;
+    line-height: 1.25;
+    color: #AD343E;
+  }
+  .homepage .text-9 {
+    margin: 0 5.9px 32px 0;
+    display: flex;
+    flex-direction: column;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .a33 {
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  400;
+    font-size: 18px;
+    line-height: 1.556;
+    color:  #414536;
+  }
+  .homepage .user-2 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .blog-1 {
+    background: #F9F9F7;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px 152px 137px 152px;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .title {
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1296px;
+    box-sizing: border-box;
+  }
+  .homepage .our-blog-articles {
+    margin: 1.5px 30.5px 1.5px 0;
+    display: inline-block;
+    width: 1074.5px;
+    overflow-wrap: break-word;
+    font-family:  'Playfair Display';
+    font-weight: 500;
+    font-size: 55px;
+    line-height: 1.1;
+    color: #2C2F24;
+  }
+  .homepage .button {
+    border-radius: 118px;
+    background: #AD343E;
+    display: flex;
+    padding: 20px 0.8px 20px 0;
+    width: 191px;
+    box-sizing: border-box;
+    padding-left: 3%;
+    color: white;
+  }
+  .homepage .get-started-now {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  700;
+    font-size: 16px;
+    line-height:  1.5;
+    color:  #FFFFFF;
+  }
+  .homepage .cards {
+    display: flex;
+    flex-direction: row;
+    column-gap: 24px;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .container-4 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 53px;
+    box-sizing: border-box;
+  }
+  .homepage .mask-group-4 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 45px;
+    width: 636px;
+    height: 456px;
+  }
+  .homepage .pexels-andra-9185811 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_andra_9185811.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: -30px;
+    height: 100%;
+  }
+  .homepage .text {
+    margin: 0 46.5px 0 35px;
+    display: flex;
+    flex-direction: column;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .january-32023 {
+    margin-bottom: 15px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height:  1.5;
+    color: #737865;
+  }
+  .homepage .the-secret-tips-tricks-to-prepare-aperfect-burger-pizza-for-our-customers {
+    margin-bottom: 15px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  500;
+    font-size: 20px;
+    line-height: 1.3;
+    color:  #2C2F24;
+  }
+  .homepage .lorem-ipsum-dolor-sit-amet-consectetur-of-aadipiscing-elitilmim-semper-adipiscing-massa-gravida-nisi-cras-enim-quis-nibholm-varius-amet-gravida-ut-facilisis-neque-egestas {
+    margin-right: 14.8px;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  400;
+    font-size:  16px;
+    line-height: 1.5;
+    color:  #414536;
+  }
+  .homepage .container-5 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 14px;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .mask-group-5 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 200px;
+  }
+  .homepage .pexels-suzy-hazelwood-29661961 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_suzy_hazelwood_296619611.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: -37px;
+    top: -32px;
+    width: 343px;
+    height: 232px;
+  }
+  .homepage .text-1 {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .january-320231 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 500;
+    font-size:  14px;
+    line-height:  1.429;
+    color:  #737865;
+  }
+  .homepage .container-7 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 40px;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .how-to-prepare-the-perfect-french-fries-in-an-air-fryer {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #2C2F24;
+  }
+  .homepage .mask-group-7 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 200px;
+  }
+  .homepage .pexels-sebastian-coman-photography-37910881 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_sebastian_coman_photography_37910881.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    right: -24px;
+    bottom: 0px;
+    width: 330px;
+    height: 200px;
+  }
+  .homepage .text-3 {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .january-320233 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:500;
+    font-size:  14px;
+    line-height:  1.429;
+    color: #737865;
+  }
+  .homepage .delicious-cheesecake-recipes-you-can-prepare {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  500;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #2C2F24;
+  }
+  .homepage .container-6 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 40px;
+    width: 'fit-content';
+  
+  }
+
+  .homepage .mask-group-6 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 200px;
+  }
+  .homepage .pexels-leonardo-luz-139989741 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_leonardo_luz_1399897411.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: -109px;
+    height: 100%;
+  }
+  .homepage .text-2 {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .january-320232 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size:  14px;
+    line-height:  1.429;
+    color:  #737865;
+  }
+  .homepage .how-to-prepare-delicious-chicken-tenders {
+    overflow-wrap: break-word;
+    font-family:'DM Sans';
+    font-weight: 500;
+    font-size:  20px;
+    line-height: 1.3;
+    color:  #2C2F24;
+  }
+  .homepage .container-8 {
+    box-shadow: 0px 3px 59.6px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    border: 1px solid #F9F9F7;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 40px;
+    width: 'fit-conten't;
+    box-sizing: border-box;
+  }
+  .homepage .mask-group-8 {
+    border-radius: 12px 12px 0 0;
+    position: relative;
+    margin-bottom: 30px;
+    width: 306px;
+    height: 200px;
+  }
+  .homepage .pexels-katerina-holmes-59082261 {
+    border-radius: 12px 12px 0 0;
+    background: url('../assets/images/pexels_katerina_holmes_590822611.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: -95px;
+    right: 0px;
+    bottom: -30px;
+    height: 100%;
+  }
+  .homepage .text-4 {
+    margin: 0 25px;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .january-320234 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 500;
+    font-size:  14px;
+    line-height:1.429;
+    color:  #737865;
+  }
+  .homepage .great-pizza-restaurants-you-should-visit-this-city {
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  500;
+    font-size:  20px;
+    line-height: 1.3;
+    color:  #2C2F24;
+  }
+  .homepage .footer {
+    background: #474747;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px 152px 85px 152px;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .top {
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .col-1 {
+    margin: 0 144.7px 197px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .homepage .col-2 {
+    margin: 0 136px 67px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .homepage .col-21 {
+    margin-right: 120.7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .homepage .col-3 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .homepage .logo {
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    align-self: flex-start;
+    padding: 12px 0 14px 0;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  
+  .homepage .in-the-new-era-of-technology-we-look-ain-the-future-with-certainty-and-pride-to-for-our-company-and {
+    margin-bottom: 30px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  400;
+    font-size: 16px;
+    line-height: 1.5;
+    color:  #ADB29E;
+  }
+  .homepage .social {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 12px;
+    width: 176px;
+    box-sizing: border-box;
+  }
+ 
+  .homepage .logo-twitter-2 {
+    display: flex;
+    width: 14px;
+    height: 11.3px;
+    box-sizing: border-box;
+  }
+  .homepage .container-1 {
+    border-radius: 17.5px;
+    background: #AD343E;
+    position: relative;
+    display: flex;
+    padding: 10.2px 13.5px 9.6px 13.5px;
+    width: 35px;
+    height: 35px;
+    box-sizing: border-box;
+  }
+  .homepage .logo-fb-simple-2 {
+    display: flex;
+    width: 7.9px;
+    height: 15.2px;
+    box-sizing: border-box;
+  }
+ 
+  .homepage .logo-instagram-1 {
+    display: flex;
+    width: 16.9px;
+    height: 16.9px;
+    box-sizing: border-box;
+  }
+ 
+  .homepage .logo-github-1 {
+    display: flex;
+    width: 16.2px;
+    height: 15.8px;
+    box-sizing: border-box;
+  }
+  .homepage .pages {
+    margin: 0 14.3px 40px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  700;
+    font-size: 16px;
+    line-height:  1.5;
+    color: #FFFFFF;
+  }
+  .homepage .list {
+    display: flex;
+    flex-direction: column;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .home {
+    margin: 0 16.6px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  400;
+    font-size:  16px;
+    line-height:  1.5;
+    color:  #DBDFD0;
+  }
+  .homepage .about {
+    margin: 0 14.7px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  400;
+    font-size:  16px;
+    line-height:  1.5;
+    color:  #DBDFD0;
+  }
+  .homepage .menu {
+    margin: 0 19.4px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height:  1.5;
+    color:  #DBDFD0;
+  }
+  .homepage .pricing {
+    margin: 0 10.2px 20px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  400;
+    font-size:  16px;
+    line-height: 1.5;
+    color:  #DBDFD0;
+  }
+  .homepage .blog {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size:  16px;
+    line-height:  1.5;
+    color: #DBDFD0;
+  }
+  .homepage .contact {
+    margin-bottom: 20px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  400;
+    font-size:  16px;
+    line-height: 1.5;
+    color:  #DBDFD0;
+  }
+  .homepage .delivery {
+    margin-right: 0.9px;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight:  400;
+    font-size:  16px;
+    line-height:  1.5;
+    color:  #DBDFD0;
+  }
+  .homepage .utility-pages {
+    margin-bottom: 40px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'DM Sans';
+    font-weight:  700;
+    font-size: 16px;
+    line-height:  1.5;
+    color:  #FFFFFF;
+  }
+  .homepage .list-1 {
+    display: flex;
+    flex-direction: column;
+    width: 'fit-content';
+    box-sizing: border-box;
+  }
+  .homepage .start-here {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family:  'DM Sans';
+    font-weight: 400;
+    font-size:  16px;
+    line-height:  1.5;
+    color: #DBDFD0;
+  }
+  .homepage .styleguide {
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family:'DM Sans';
+    font-weight:  400;
+    font-size: 16px;
+    line-height:  1.5;
+    color:  #DBDFD0;
+  }
+
+    .homepage .password-protected {
+      margin-bottom: 20px;
+      display: inline-block;
+      overflow-wrap: break-word;
+      font-family: 'DM Sans';
+      font-weight:  400;
+      font-size:  16px;
+      line-height: 1.5;
+      color:  #DBDFD0;
+    }
+    .homepage .not-found {
+      margin-bottom: 20px;
+      display: inline-block;
+      align-self: flex-start;
+      overflow-wrap: break-word;
+      font-family: 'DM Sans';
+      font-weight:  400;
+      font-size:  16px;
+      line-height:  1.5;
+      color: #DBDFD0;
+    }
+    .homepage .licenses {
+      margin-bottom: 20px;
+      display: inline-block;
+      align-self: flex-start;
+      overflow-wrap: break-word;
+      font-family:  'DM Sans';
+      font-weight:  400;
+      font-size:  16px;
+      line-height:  1.5;
+      color:  #DBDFD0;
+    }
+    .homepage .changelog {
+      margin-bottom: 20px;
+      display: inline-block;
+      align-self: flex-start;
+      overflow-wrap: break-word;
+      font-family:  'DM Sans';
+      font-weight:  400;
+      font-size:  16px;
+      line-height: 1.5;
+      color:  #DBDFD0;
+    }
+    .homepage .view-more {
+      align-self: flex-start;
+      overflow-wrap: break-word;
+      font-family: 'DM Sans';
+      font-weight: 400;
+      font-size:  16px;
+      line-height:  1.5;
+      color:  #DBDFD0;
+    }
+    .homepage .img {
+      border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 403px;
+      box-sizing: border-box;
+    }
+   
+  
+    .homepage .line-311 {
+      background: #414536;
+      margin-bottom: 29px;
+      width: 1296px;
+      height: 1px;
+    }
+    .homepage .copyright-2023-hashtag-developer-all-rights-reserved {
+      margin-left: 3.8px;
+      overflow-wrap: break-word;
+      font-family:  'DM Sans';
+      font-weight:  400;
+      font-size:  16px;
+      line-height:  1.5;
+      color:  #ADB29E;
+    }

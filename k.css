@@ -1,0 +1,22 @@
+
+.nav1{
+    background-color: black;
+    display: flex;
+    height: 20px;
+    width:1200px;
+     justify-content: space-between;
+    gap: 2%;
+    }
+    a{
+        color: azure;
+    }
+    
+@media (min-width:400px) and (max-width:800px){
+    .nav1{
+        height: 1000px;
+        width: 200px;
+        background-color: brown;
+        flex-direction: column;
+    }
+}
+
